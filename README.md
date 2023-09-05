@@ -32,7 +32,7 @@ Will Be Updated Regularly!
     
     https://github.com/maryamsheta/ComputerVision/assets/119558533/14183014-e2f4-4e36-89ba-f20624f07e60
 
-## 03. Digit Recoginzer
+## 03. Digit Recognizer
 
   - The User Can Draw A Digit On A Window And It Uses A Pre-Trained Model To Predict The Digit,
     It Contains A Trackbar To Determine The Brush Size And You Can Right Click To Clear The Window
