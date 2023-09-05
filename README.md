@@ -5,17 +5,17 @@ Will Be Updated Regularly!
 
 ## Table Of Contents
 
-[01. Clock]()
+[01. Clock](https://github.com/maryamsheta/ComputerVision/tree/main#01-clock)
 
-[02. Snake]()
+[02. Snake](https://github.com/maryamsheta/ComputerVision/tree/main#02-snake)
 
-[03. Digit Recognizer]()
+[03. Digit Recognizer](https://github.com/maryamsheta/ComputerVision/tree/main#03-digit-recognizer)
 
-[04. Will You Blink?]()
+[04. Will You Blink?](https://github.com/maryamsheta/ComputerVision/tree/main#04-will-you-blink)
 
-[05. Live Manipulation]()
+[05. Live Manipulation](https://github.com/maryamsheta/ComputerVision/tree/main#05-live-manipulation)
 
-## 01.Clock
+## 01. Clock
 
   - A Real-Time Clock (Analog & Digital)
 
