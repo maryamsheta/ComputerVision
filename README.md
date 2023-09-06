@@ -56,6 +56,9 @@ Will Be Updated Regularly!
     Zooming, Rotating, Sharpening, Flipping, Grayscale, Canny Edge Detection And Blurring.
     You Also Get A Feedback On What Actions Are Active And You Can Press r To Reset.
 
+  - Update: After Uploading The Demo I Added A Way To Save The Whole Frame With The Selected Region By Pressing o
+    And A Way To Save The Selected Region Only By Pressing m And Each Saved Image Has A Unique Name!
+
     https://github.com/maryamsheta/ComputerVision/assets/119558533/bc9b2b74-c661-4b05-86b3-3c088fb9532d
 
 
