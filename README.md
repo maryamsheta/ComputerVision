@@ -15,6 +15,16 @@ Will Be Updated Regularly!
 
 [05. Live Manipulation](https://github.com/maryamsheta/ComputerVision/tree/main#05-live-manipulation)
 
+Games Using MediaPipe's Hand Detection:
+
+[06. Falling Circles](https://github.com/maryamsheta/ComputerVision/tree/main#06-falling-circles)
+
+[07. Avoid](https://github.com/maryamsheta/ComputerVision/tree/main#07-avoid)
+
+[08. Mario](https://github.com/maryamsheta/ComputerVision/tree/main#08-mario)
+
+
+
 ## 01. Clock
 
   - A Real-Time Clock (Analog & Digital)
@@ -60,6 +70,37 @@ Will Be Updated Regularly!
     And A Way To Save The Selected Region Only By Pressing m And Each Saved Image Has A Unique Name!
 
     https://github.com/maryamsheta/ComputerVision/assets/119558533/bc9b2b74-c661-4b05-86b3-3c088fb9532d
+
+## 06. Falling Circles
+  - Circles fall from the top of the screen.
+  - If a circle reaches the bottom without being caught, the game ends and you can restart by pressing r.
+  - Catching a circle with your index finger's tip increases your score.
+  - The game's speed increases every time your score is a multiple of 5.
+    
+    https://github.com/maryamsheta/ComputerVision/assets/119558533/221a79f7-914b-431f-accb-9749655b4f7c
+
+## 07. Avoid 
+  - Circles fall from the top of the screen, and you need to avoid them using the square.
+  - You can move the square left and right using hand gestures.
+  - Your score increases when a circle reaches the bottom of the screen without colliding with the square.
+  - You have a limited number of lives, and losing a life occurs when a circle collides with the square.
+  - The game ends when you run out of lives and you can restart by pressing r.
+
+    https://github.com/maryamsheta/ComputerVision/assets/119558533/807342dd-8167-49bc-b6ba-02acb411a8f7
+
+## 08. Mario
+  - You control Mario's jumps using hand gestures:
+    - Open your hand to make Mario jump.
+    - Close your hand to make Mario stop jumping.
+  - Goombas come from the right of the screen and the only way you can increase the score is to jump over them.
+  - The game ends if Mario collides with Goomba in any other way.
+
+    https://github.com/maryamsheta/ComputerVision/assets/119558533/6b348292-e706-4a19-95d4-0b564ad7d5a1
+
+
+
+    
+
 
 
 
