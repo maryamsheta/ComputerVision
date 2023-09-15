@@ -2,7 +2,6 @@
 
 Will Be Updated Regularly!
 
-
 ## Table Of Contents
 
 [01. Clock](https://github.com/maryamsheta/ComputerVision/tree/main#01-clock)
@@ -23,7 +22,7 @@ Games Using MediaPipe's Hand Detection:
 
 [08. Mario](https://github.com/maryamsheta/ComputerVision/tree/main#08-mario)
 
-
+[09. Falling Blocks](https://github.com/maryamsheta/ComputerVision/tree/main#09-falling-blocks)
 
 ## 01. Clock
 
@@ -96,6 +95,23 @@ Games Using MediaPipe's Hand Detection:
   - The game ends if Mario collides with Goomba in any other way.
 
     https://github.com/maryamsheta/ComputerVision/assets/119558533/6b348292-e706-4a19-95d4-0b564ad7d5a1
+
+## 09. Falling Blocks
+  - You control the falling block using hand gestures where you close your hand to let the block fall on top of the previous block
+  - Your goal is to keep the tower of blocks as tall as possible
+  - The game ends if the width of the next block is 0 or if the part that falls is outside the bounds of the previous block
+  - Your score increases by 10 if you let the new block fall perfectly on the previous one and by 1 otherwise
+
+Note: it still needs improvements like in the scrolling part and the game over logic, but as a starting point it is good enough
+
+  - Losing if the next width is 0
+    
+    https://github.com/maryamsheta/ComputerVision/assets/119558533/a0375bee-6e75-4471-bf85-4db809093597
+
+  - Losing if it falls outside the bounds
+    
+    https://github.com/maryamsheta/ComputerVision/assets/119558533/149ef766-ff40-4de0-87cf-b243cac2bb70
+
 
 
 
